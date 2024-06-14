@@ -1,7 +1,7 @@
 ### hi there
 I'm a AI/Data Engineer
 
-| Rank | THING-TO-RANK |
+|      | Programming   |
 |-----:|---------------|
 |     1|      Python   |
 |     2|      SQL      |

@@ -1,7 +1,8 @@
 ### hi there
 I'm a AI/Data Engineer
 
-| Rank | Language |
-|_____:|__________|
-|     1|  Sql     |
-|     2| Python   |
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|      Python   |
+|     2|      SQL      |
+|     3|      YAML     |

@@ -2,19 +2,8 @@
 
 I'm an AI/Data Engineer
 
-|      | Programming   |
-|-----:|---------------|
-|     1|      Python   |     1|      Python   |
-|     2|      SQL      |
-|     3|      YAML     |
+🔬 I’m currently researching Large Language Models and alignment and LLM evaluation.
 
-|      | LIST          |
-|-----:|---------------|
-|Programming|Python,SQL, Shell scripting|
-|Configuration|JOSN,YAML|
-|Cloud|AWS(4.5/5),GCP(3/5),AZURE(3/5)|
-|Orchestration|Airflow|
-|Data|Databricks, AWS Glue, AWS Datalake|
-|IAC|Cloudformation,Terraform|
+🌱 I’m currently learning more on Language Models, Vision Transformers, and Evaluation of Foundation models.
 
-
+📝 I write articles on Medium and currently also writing at blog.premai.io
